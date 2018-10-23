@@ -1,5 +1,3 @@
-require 'page-object'
-
 class GooglePage
   include PageObject
   page_url('https://www.google.com/')
